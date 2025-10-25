@@ -106,10 +106,10 @@ Test cases include:
 ## 🖼️ Visuals
 
 > **State Machine View**
-> ![State Machine View](images/state_machine.png)
+> ![State Machine View](state_machine.png)
 
 > **RTL View**
-> ![RTL View](images/rtl_view.png)
+> ![RTL View](rtl_view.png)
 
 
 ---
